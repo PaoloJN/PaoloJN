@@ -1,6 +1,6 @@
 <div>
   <img src="assets/images/Name-1.png"  width="100%" >
-  <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=react-dark&bg_color=000000&hide_border=true&color=FFFFFF&line=FFFFFF&radius=10"> 
+  <img src="https://activity-graph.herokuapp.com/graph?username=PaoloJN&theme=react-dark&bg_color=000000&hide_border=true&color=FFFFFF&line=FFFFFF&radius=10"> 
 <div>
   
 <div>
