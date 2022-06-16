@@ -1,13 +1,8 @@
-<!-- Name Image -->
-<img src="assets/images/Name-1.png"  width="100%" >
-<hr>
-
-<!-- Stats -->
 <div>
+  <img src="assets/images/Name-1.png"  width="100%" >
   <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=react-dark&bg_color=000000&hide_border=true&color=FFFFFF&line=FFFFFF&radius=10"> 
 <div>
   
-<hr>
 <div>
   <img src="assets/images/Languages.png">
   <img width="33%" src="https://github-readme-stats.vercel.app/api?username=PaoloJN&show_icons=true&count_private=true&custom_title=@PaoloJN&title_color=FFFFFF&bg_color=000000&text_color=FFFFFF&icon_color=818181&hide_border=true"> 
