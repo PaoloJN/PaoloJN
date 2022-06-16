@@ -4,8 +4,7 @@
 
 <!-- Stats -->
 <div>
-  <img width="66.5%" src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=react-dark&bg_color=000000&hide_border=true&color=FFFFFF&line=FFFFFF&radius=10"> 
-  <img width="33%" height="235px"  src="https://66.media.tumblr.com/377ef786790870960470cfcc9debcbd4/tumblr_olrnkrhHDJ1vxxl2uo1_500.gif">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=react-dark&bg_color=000000&hide_border=true&color=FFFFFF&line=FFFFFF&radius=10"> 
 <div>
   
 <hr>
