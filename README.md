@@ -1,5 +1,5 @@
 <!-- Name Image -->
-<img src="assets/images/Name.PNG"  width="100%" >
+<img src="assets/images/Name-1.png"  width="100%" >
 <hr>
 
 <!-- Stats -->
